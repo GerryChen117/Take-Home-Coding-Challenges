@@ -1,4 +1,4 @@
-# Python-Coding-Challenges
+# Stock Statement Generator
 
 For ease of coding and testing, I used Google Colab to write this document. Link to the Colab: https://colab.research.google.com/drive/1Eve6tqEf2HjH1q9MYKyPSSRX3WWpgxx6?usp=sharing
 
